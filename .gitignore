@@ -1,0 +1,37 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# Reports and documents
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.txt
+
+# Images and UML diagrams
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.drawio
+
+# Report folders
+Reports/
+Report/
+
+# Personal/environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
